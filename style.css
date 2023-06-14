@@ -207,11 +207,12 @@ aside > p > a:hover{
 ul{
     columns: 2;
     list-style-type: none;
+    padding-left: 15px;
     
 }
 
 .lista{
-   
+    
     text-decoration-line: underline;
     text-decoration-style: dotted;
 
